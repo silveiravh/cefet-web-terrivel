@@ -28,10 +28,10 @@ input[type="color"]{
 	border: none;
 }
 
-span {
-color: red;
-}
-
 form {
 	margin: auto;
+}
+
+span {
+color: red;
 }
